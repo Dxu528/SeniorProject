@@ -1,0 +1,32 @@
+[
+    {
+        "name": "League of Legends", 
+        "genre": "MOBA",
+        "image": "./images/lol.jpg",
+        "path": "/gamePage/<name>"
+    },
+    {
+        "name": "Valorant", 
+        "genre": "Shooter",
+        "image": "./images/valorant.png",
+        "path": "/gamePage/<name>"
+    },
+    {
+        "name": "The Legend of Zelda: Breath of The Wild",
+        "genre": "Open-World",
+        "image": "./images/zelda.jpg",
+        "path": "/gamePage/<name>"
+    },
+    {
+        "name": "Super Mario Bros U. Deluxe",
+        "genre": "Platformer",
+        "image": "./images/mario.jpg",
+        "path": "/gamePage/<name>"
+    },
+    {
+        "name": "It Takes Two",
+        "genre": "Co-op",
+        "images": "./images/two.jpg",
+        "path": "/gamePage/<name>"
+    }
+]

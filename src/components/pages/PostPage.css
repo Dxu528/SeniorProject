@@ -1,0 +1,7 @@
+.chatBox{
+    box-sizing: border-box;
+    font-size: 28px;
+    outline-width: 10;
+    outline-style: ridge;
+    outline-color: black;
+}
